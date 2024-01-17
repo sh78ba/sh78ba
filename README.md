@@ -1,4 +1,8 @@
-### Hi there 👋
+MCA 26' @ NIT Warangal
+Full Stack Developer 
+Problem Solver 
+
+🔗https://sbdev.me/
 
 <!--
 **sh78ba/sh78ba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
