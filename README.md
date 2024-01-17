@@ -1,6 +1,4 @@
-MCA 26' @ NIT Warangal
-Full Stack Developer 
-Problem Solver 
+MCA 26' @ NIT Warangal || Full Stack Developer || Problem Solver 
 
 🔗https://sbdev.me/
 
