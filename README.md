@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Shantanu Basumatary</h1>
-<h3 align="center">MCA 26' @ NIT Warangal || Full Stack Developer || Problem Solver</h3>
+
+<h3 align="center">Full Stack Developer || Problem Solver</h3>
+
+-🔭 I’m currently studying MCA at NIT Warangal
 
 - 🌱 I’m currently learning **ReactJs,NodeJs,ExpressJS and MongoDB**
 
