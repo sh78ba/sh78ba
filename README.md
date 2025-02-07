@@ -23,5 +23,9 @@
 ## 🏆GitHub Trophies
 ![](https://github-trophies.vercel.app/?username=sh78ba&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
+##DevCard
+<a href="https://app.daily.dev/shantanubasumatary"><img src="https://api.daily.dev/devcards/v2/D6BvSWAFpqQ15EpYaIxz6.png?r=ah0&type=wide" width="652" alt="Shantanu Basumatary's Dev Card"/></a>
+
 ### ✍️Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
