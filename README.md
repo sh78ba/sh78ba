@@ -25,7 +25,7 @@
 
 
 <p align="left">
-  <a href="https://app.daily.dev/shantanubasumatary">
+  <a href="https://app.daily.dev/sh78basu">
     <img src="https://api.daily.dev/devcards/v2/D6BvSWAFpqQ15EpYaIxz6.png?r=hubreadmeah0&type=wide" width="652" alt="Shantanu Basumatary's Dev Card"/>
   </a>
 </p>
