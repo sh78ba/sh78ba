@@ -1,13 +1,13 @@
 # 💫About Me :
-🔭 I’m currently studying MCA at NIT Warangal
+🔭 I’m currently studying MCA at NIT Warangal and Associate Software Engineer.
 
-🌱 I’m currently learning ReactJs,NodeJs,ExpressJS ,MongoDB &DevOps
+🌱 I’m currently learning ReactJs, NodeJs, ExpressJS ,MongoDB, Angular & Backend & Devops
 
  👨‍💻 All of my projects are available at https://sbdev.me
 
- 📫 How to reach me sh123tu@gmail.com
+ 📫 How to reach me sbasumatary.dev@gmail.com
 
-⚡ Fun fact I love Web Development
+⚡ Fun fact I love Development
 
 
 ## 🌐Socials
