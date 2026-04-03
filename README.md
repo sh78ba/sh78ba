@@ -1,5 +1,6 @@
 # 💫About Me :
-🔭 I’m currently studying MCA at NIT Warangal and Associate Software Engineer.
+
+🔭 Associate Software Engineer Intern and MCA student at NIT Warangal.
 
 🌱 I’m currently learning ReactJs, NodeJs, ExpressJS ,MongoDB, Angular & Backend & Devops
 
