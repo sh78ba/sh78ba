@@ -1,6 +1,6 @@
 # 💫About Me :
 
-🔭 Associate Software Engineer Intern and MCA student at NIT Warangal.
+🔭 Associate Software Engineer Intern | MCA, National Institute of Technology Warangal (2026)
 
 🌱 I’m currently learning ReactJs, NodeJs, ExpressJS ,MongoDB, Angular & Backend & Devops
 
