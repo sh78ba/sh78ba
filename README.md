@@ -1,8 +1,8 @@
 # 💫About Me :
 
-🔭 Associate Software Engineer Intern | MCA, National Institute of Technology Warangal (2026)
+🔭 Associate Software Engineer | MCA, National Institute of Technology Warangal (2026)
 
-🌱 I’m currently learning ReactJs, NodeJs, ExpressJS ,MongoDB, Angular & Backend & Devops
+🌱 ReactJs, NodeJs, ExpressJS ,MongoDB, Angular, Python, FastAPI, Java
 
  👨‍💻 All of my projects are available at https://sbdev.me
 
@@ -20,17 +20,4 @@
 ![](https://github-readme-stats.vercel.app/api?username=sh78ba&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=sh78ba&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sh78ba&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆GitHub Trophies
-![](https://github-trophies.vercel.app/?username=sh78ba&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
-
-<p align="left">
-  <a href="https://app.daily.dev/sh78basu">
-    <img src="https://api.daily.dev/devcards/v2/D6BvSWAFpqQ15EpYaIxz6.png?r=hubreadmeah0&type=wide" width="652" alt="Shantanu Basumatary's Dev Card"/>
-  </a>
-</p>
-
-### ✍️Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
